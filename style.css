@@ -106,11 +106,6 @@ body {
     transition: transform 0.3s ease;
 }
 
-
-.profile-img:hover {
-    transform: scale(1.05);
-}
-
 .about-text h2 {
     font-size: 52px;
     font-family: 'Bebas Neue', sans-serif;
@@ -223,4 +218,5 @@ body {
         font-size: 48px;
     }
 }
+
 
